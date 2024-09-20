@@ -481,5 +481,10 @@
     "name": "Vue",
     "description": "An open-source JavaScript framework for building user interfaces and single-page applications.",
     "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/vue-logo.png"
+  },
+  {
+    "name": "NGINX",
+    "slug": "nginx",
+    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/nginx-logo.png"
   }
 ]
